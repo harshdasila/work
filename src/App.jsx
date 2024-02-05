@@ -31,7 +31,7 @@ function App() {
       <Sales/>
       <FeaturedProducts/>
       <button onClick={handleMinimize}>Minimize the Chat</button>
-      <TawkMessengerReact propertyId="65c0f3c28d261e1b5f5c8f16" widgetId="default" onLoad={onLoad}/>
+      <TawkMessengerReact propertyId="65c0f3c28d261e1b5f5c8f16" widgetId="1hlsrgcri" onLoad={onLoad}/>
     </>
   )
 }
