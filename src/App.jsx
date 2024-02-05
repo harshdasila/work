@@ -6,6 +6,8 @@ import MainPoster from './components/MainPoster'
 import DiscountCard from './components/DiscountCard'
 import DiscountsContainer from './components/DiscountsContainer'
 import Categories from './components/Categories'
+import Sales from './components/Sales'
+import FeaturedProducts from './components/FeaturedProducts'
 
 function App() {
   
@@ -16,6 +18,8 @@ function App() {
       <MainPoster/>
       <DiscountsContainer/>
       <Categories/>
+      <Sales/>
+      <FeaturedProducts/>
     </>
   )
 }
